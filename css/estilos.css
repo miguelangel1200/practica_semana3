@@ -1,0 +1,100 @@
+body{
+    background-color: green;
+}
+.col{
+    height: 200px;
+}
+#carreteras{
+    background-color: black;
+}
+#carro1,#carro2,#carro3,#carro4{
+    position:relative;
+}
+#contenedor_verde{
+    margin-left: 47%;
+    
+}
+#contenedor_morado{
+    margin-left: 47%;
+}
+#contenedor_amarillo{
+    float:left;
+}
+#contenedor_azul{
+    float:left;
+}
+#contenedor_formulario{
+    position: relative;
+    margin-top: 4%;
+    background-color: rgb(235, 234, 155);
+}
+.poner_abajo{
+    display: flex;
+    align-items: end;
+}
+#S1_R{
+    position:relative;
+    display: block;
+    margin-top: 100%;
+    float:left;
+    border-radius: 100%;
+    background-color:rgb(255,255,255);
+    width: 30px;
+    height: 30px;
+}
+#S1_A{
+    position:relative;
+    display: block;
+    margin-top: 100%;
+    float:left;
+    border-radius: 100%;
+    background-color:rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+}
+#S1_V{
+    position:relative;
+    display: block;
+    margin-top: 100%;
+    float:left;
+    border-radius: 100%;
+    background-color:rgb(255,255,255);
+    width: 30px;
+    height: 30px;
+}
+#semaforo_2{
+    margin-top: 50%;
+    margin-left: 83%;
+}
+#S2_V{
+    position:relative;
+    display: block;
+    
+    margin-top: 0px;
+    margin-left: 80%;
+    border-radius: 100%;
+    background-color:rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+}
+#S2_R{
+    position:relative;
+    display: block;
+    
+    margin-top: 20px;
+    margin-left: 80%;
+    border-radius: 100%;
+    background-color:rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+}
+#S2_A{
+    position:relative;
+    display: block;
+    margin-top: 0px;
+    margin-left: 80%;
+    border-radius: 100%;
+    background-color:rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+}
